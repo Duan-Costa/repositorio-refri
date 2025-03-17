@@ -1,11 +1,28 @@
+🍓 Morango Drink
+<br>
+🥑 Abacate Drrink
+<br>
+🍊 Laranja Drink
+<br.
+ Animação com HTML, CSS e JavaScript 
+🚀 Apresento meu mais novo projeto: Morango Drink, uma página interativa feita com HTML, CSS e JavaScript, 
+destacando um design moderno e animações incríveis!
+🔥 Tecnologias Utilizadas:
+✅ HTML5 – Estrutura da página
+✅ CSS3 – Estilização e animações
+✅ JavaScript – Efeitos dinâmicos
+💡 Destaque para a animação dos  efeito de destaque na lata!
+
+![photo_5098307853629894211_x](https://github.com/user-attachments/assets/9a7cfdc8-7433-4fa3-b04b-a12d5959f269)
+
+
+![photo_5098307853629894213_x](https://github.com/user-attachments/assets/7f445871-4e33-4fc2-9be8-d860196a2fb3)
+
+![photo_5098307853629894212_x](https://github.com/user-attachments/assets/d1722d5e-ecde-4d93-bc1f-4e729fa1254f)
 
 
 
 
-![image](https://github.com/user-attachments/assets/3c3fc0ee-0eeb-41a4-9ae9-f99fe8065f46)
 
-![image](https://github.com/user-attachments/assets/d24760d8-31e1-46d0-b204-82be9c432603)
-
-![image](https://github.com/user-attachments/assets/e13e7861-49ff-41f2-8b70-b794cf64d6bc)
 
 
