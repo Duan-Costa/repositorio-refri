@@ -3,7 +3,6 @@
 🥑 Abacate Drrink
 <br>
 🍊 Laranja Drink
-
 <br>
 🔥 Tecnologias Utilizadas:
 <br>
